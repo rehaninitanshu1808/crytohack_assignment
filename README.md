@@ -1,13 +1,15 @@
 # crytohack_assignment
 
-This repository contains the solutions for the challenges on [Cryptohack](https://cryptohack.org/), along with our acknowledgements and submission details.
+This repository contains the solutions for the challenges on [Cryptohack](https://cryptohack.org/).
 
-We have completed the following challenges on Cryptohack:
+I have completed the following challenges on Cryptohack:
 
 | Challenge Name | Number solved |
 | --- | --- |
-| Introduction| 0/12 |
-| General| 0/19 |
-| Symmetric Ciphers | 0/27 |
-| Mathematics | 0/15 |
-| RSA | 0/29 |
+| Introduction| 3/3 |
+| General| 18/19 |
+| Symmetric Ciphers | 19/27 |
+| Mathematics | 6/15 |
+| RSA | 16/29 |
+| Diffie | 10/14 |
+| Hash Functions | 10/14 |
