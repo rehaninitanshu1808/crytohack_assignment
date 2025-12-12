@@ -1,4 +1,4 @@
-# crytohack_assignment
+# Cryptohack Completed Lab Work
 
 This repository contains the solutions for the challenges on [Cryptohack](https://cryptohack.org/).
 
